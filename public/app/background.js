@@ -73,5 +73,6 @@
         }
         tabStorage[tabId] = null;
         //hello world
+        //hello
     });
 }());
